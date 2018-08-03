@@ -1,0 +1,14 @@
+registry.access.redhat.com/openshift3/logging-auth-proxy:v3.9.33
+registry.access.redhat.com/openshift3/logging-curator:v3.9.33
+registry.access.redhat.com/openshift3/logging-elasticsearch:v3.9.33
+registry.access.redhat.com/openshift3/logging-fluentd:v3.9.33
+registry.access.redhat.com/openshift3/logging-kibana:v3.9.33
+registry.access.redhat.com/openshift3/oauth-proxy:v3.9.33
+registry.access.redhat.com/openshift3/metrics-cassandra:v3.9.33
+registry.access.redhat.com/openshift3/metrics-hawkular-metrics:v3.9.33
+registry.access.redhat.com/openshift3/metrics-hawkular-openshift-agent:v3.9.33
+registry.access.redhat.com/openshift3/metrics-heapster:v3.9.33
+registry.access.redhat.com/openshift3/prometheus:v3.9.33
+registry.access.redhat.com/openshift3/prometheus-alert-buffer:v3.9.33
+registry.access.redhat.com/openshift3/prometheus-alertmanager:v3.9.33
+registry.access.redhat.com/openshift3/prometheus-node-exporter:v3.9.33

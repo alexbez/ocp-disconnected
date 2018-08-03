@@ -1,0 +1,7 @@
+registry.access.redhat.com/cloudforms46/cfme-openshift-postgresql
+registry.access.redhat.com/cloudforms46/cfme-openshift-memcached
+registry.access.redhat.com/cloudforms46/cfme-openshift-app-ui
+registry.access.redhat.com/cloudforms46/cfme-openshift-app
+registry.access.redhat.com/cloudforms46/cfme-openshift-embedded-ansible
+registry.access.redhat.com/cloudforms46/cfme-openshift-httpd
+registry.access.redhat.com/cloudforms46/cfme-httpd-configmap-generator

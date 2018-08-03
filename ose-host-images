@@ -1,0 +1,4 @@
+registry.access.redhat.com/rhel7/etcd
+registry.access.redhat.com/openshift3/ose:v3.9.33
+registry.access.redhat.com/openshift3/node:v3.9.33
+registry.access.redhat.com/openshift3/openvswitch:v3.9.33
